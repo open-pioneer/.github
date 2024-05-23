@@ -1,0 +1,24 @@
+# Reference: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms
+name: "⬆️ Other issues"
+description: Use this form for feature requests, enhancements, etc.
+projects: ["open-pioneer/6"]
+body:
+- type: textarea
+  attributes:
+    label: Issue description
+    value: |
+      <!--- Please describe your issue -->
+  validations:
+    required: true
+
+- type: checkboxes
+  attributes:
+    label: Validations
+    description: Please make sure that you follow these steps before submitting the issue
+    options:
+      - label: Read and follow our [code of conduct](https://github.com/open-pioneer/.github/blob/main/CODE_OF_CONDUCT.md)
+        required: true
+      - label: Read the [contributing guidelines](https://github.com/open-pioneer/trails-starter/blob/main/docs/Contributing.md)
+        required: true
+      - label: Check that there isn't already a similar issue
+        required: true

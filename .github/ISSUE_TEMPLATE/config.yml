@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Trails Core Packages
+    url: https://github.com/open-pioneer/trails-core-packages/issues/new/choose
+    about: Issues related to the core components (runtime package etc.) should be reported to the trails-core-packages repository.
+  - name: Trails OpenLayers Base Packages
+    url: https://github.com/open-pioneer/trails-openlayers-base-packages/issues/new/choose
+    about: Issues related to OpenLayers functionality should be reported to the trails-openlayers-base-packages repository.
+  - name: Trails Build Tools
+    url: https://github.com/open-pioneer/trails-build-tools/issues/new/choose 
+    about: Issues with build tools should be reported to the trails-build-tools repository.
+  - name: Trails Starter Repository
+    url: https://github.com/open-pioneer/trails-starter/issues/new/choose
+    about: Issues with the starter repository's setup or the documentation should be reported to the trails-starter repository.
