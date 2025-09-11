@@ -6,6 +6,9 @@ contact_links:
   - name: Trails OpenLayers Base Packages
     url: https://github.com/open-pioneer/trails-openlayers-base-packages/issues/new/choose
     about: Issues related to OpenLayers functionality should be reported to the trails-openlayers-base-packages repository.
+  - name: Trails Community Packages
+    url: https://github.com/open-pioneer/trails-community/issues/new/choose
+    about: Issues related to community packages should be reported here.
   - name: Trails Build Tools
     url: https://github.com/open-pioneer/trails-build-tools/issues/new/choose 
     about: Issues with build tools should be reported to the trails-build-tools repository.
