@@ -1,7 +1,6 @@
 # Reference: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms
 name: "⬆️ Other issues"
 description: Use this form for feature requests, enhancements, etc.
-projects: ["open-pioneer/6"]
 body:
 - type: textarea
   attributes:

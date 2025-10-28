@@ -1,7 +1,6 @@
 # Reference: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms
 name: "🐞 Bug report"
 description: File a bug report.
-projects: ["open-pioneer/6"]
 body:
 - type: markdown
   attributes:
